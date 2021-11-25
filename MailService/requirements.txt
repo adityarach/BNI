@@ -1,0 +1,8 @@
+cx_Oracle
+zeep
+loguru
+fastapi
+uvicorn
+pymongo
+smtplib
+flask
